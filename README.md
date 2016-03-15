@@ -1,17 +1,15 @@
 ## Menus Multisite Picker
 
 # Plugin Name
-Plugin Name: Menus Multisite Picker
-Plugin URI: https://github.com/tungvn/menus-multisite-picker
-Author URI: http://tungvn.info/
-Tags: multisite, menus, metabox
-Requires at least: 3.7
-Tested up to: 4.4.2
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Multisite metabox in Menus of Wordpress.
+- Plugin Name: Menus Multisite Picker
+- Plugin URI: https://github.com/tungvn/menus-multisite-picker
+- Author URI: http://tungvn.info/
+- Tags: multisite, menus, metabox
+- Requires at least: 3.7
+- Tested up to: 4.4.2
+- Stable tag: 1.0
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 # Description
 The plugin adds a meta box for multisite picker on Wordpress multisite (WPMU). The plugin shows all sites which has been created or searchs by name of sites.
