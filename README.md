@@ -3,7 +3,7 @@
 # Plugin Name
 - Plugin Name: Menus Multisite Picker
 - Plugin URI: https://github.com/tungvn/menus-multisite-picker
-- Author URI: http://tungvn.info/
+- Author URI: http://tungvn.com/
 - Tags: multisite, menus, metabox
 - Requires at least: 3.7
 - Tested up to: 4.4.2
